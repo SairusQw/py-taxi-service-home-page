@@ -18,4 +18,3 @@ def index(request: HttpRequest) -> HttpResponse:
         "taxi/index.html",
         context=context
     )
-
